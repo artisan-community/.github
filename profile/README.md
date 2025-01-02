@@ -1,4 +1,4 @@
-[Artisan Build](https://artisan.build) is a firm that acts as the Technical Co-Founder of a growing number of companies that want to use technology to better engage with their markets.
+We are [Artisan Build](https://artisan.build). We're the Technical Co-Founders of a growing number of companies that want to use technology to better engage with their markets.
 Our modular approach to developing Laravel applications means that we are prolific package creators. We've been building up a huge collection of "dog food" for over a year and we've
 decided to make it available for other developers to use. Our approach to open-source is a little different from most maintainers. We build exactly what we need and optimize it for
 our own use case. We do not accept issues or pull requests from the general public on any of our packages. They are all released under the MIT license, so if anything doesn't quite meet 
